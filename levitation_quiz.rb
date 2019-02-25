@@ -7,6 +7,9 @@ def levitation_quiz
 	  
 end
 
-puts 
+puts "You passed the quiz!" 
+
+end
+
 
 
